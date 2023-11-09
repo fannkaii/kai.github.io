@@ -65,8 +65,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: e889daf57bcadca0375b
+  clientSecret: ea5ab30f57dd5e3aace1fe26c9afd2ceae5fe0d9
   repo: fannkaii.github.io
   owner: fannkaii
 
